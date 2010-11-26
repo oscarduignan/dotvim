@@ -74,7 +74,7 @@ set smartcase
 " ----------------------------------------------------------------------------
 syntax on
 if has("gui_running")
-    colorscheme railscasts
+    colorscheme github
 else
     colorscheme desert
 endif
