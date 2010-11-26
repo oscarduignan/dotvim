@@ -1,0 +1,13 @@
+inoremap <C-v> <C-v><C-v>
+noremap <C-c> <C-v><C-c>
+nnoremap j 5j
+nnoremap k 5k
+nnoremap ; :
+cnoremap <C-j> <Down>
+cnoremap <C-k> <Up>
+nnoremap <C-h> <C-p>
+nnoremap <C-l> <C-n>
+nnoremap <C-j> <C-o>
+nnoremap <C-k> <C-i>
+imap jj <Esc>
+set guioptions=Tbr
